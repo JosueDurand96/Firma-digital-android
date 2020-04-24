@@ -1,0 +1,56 @@
+
+l
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(€œŸÖ8Ñ˜Äş–.
+d
+java:S1192†"GDefine a constant instead of duplicating this literal "Cancel" 3 times.(®µ8Ñ˜Äş–.
+e
+java:S1192"HDefine a constant instead of duplicating this literal "log_tag" 6 times.(½õå8Ñ˜Äş–.
+x
+java:S1192ı"ZDefine a constant instead of duplicating this literal "This permission is needed" 3 times.(êùŞ´8Ñ˜Äş–.
+o	java:S101ã"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Â›ÔÜÿÿÿÿÿ8Ñ˜Äş–.
+m	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÖ¢@8Ñ˜Äş–.
+n	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê«Ù8Ñ˜Äş–.
+m	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Æ–8Ñ˜Äş–.
+n	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éùµÔ8Ñ˜Äş–.
+
+java:S1488Ê"aImmediately return this expression instead of assigning it to the temporary variable "byteArray".(±Ò‘ß8Ñ˜Äş–.
+w
+java:S30084"ZRename this field "ConvertedBitmap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìƒ´£8Ñ˜Äş–.
+F
+java:S16596"$Declare "mClear" on a separate line.(¼ñ¶ ÿÿÿÿÿ8Ñ˜Äş–.
+H
+java:S16596"&Declare "mGetSign" on a separate line.(¼ñ¶ ÿÿÿÿÿ8Ñ˜Äş–.
+G
+java:S16596"%Declare "mCancel" on a separate line.(¼ñ¶ ÿÿÿÿÿ8Ñ˜Äş–.
+x	java:S1166"WRename this field "btn_get_sign" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ñ¶ ÿÿÿÿÿ8Ñ˜Äş–.
+n	java:S1167"RRename this field "img_sig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ŞÅş8Ñ˜Äş–.
+}	java:S116C"bRename this field "STORAGE_PERMISSION_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¶¡^8Ñ˜Äş–.
+ƒ	java:S116D"bRename this field "Contact_PERMISSION_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ìóƒüÿÿÿÿ8Ñ˜Äş–.
+~	java:S116E"cRename this field "location_PERMISSION_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ğÂp8Ñ˜Äş–.
+X
+java:S2696_"6Make the enclosing method "static" or remove this set.(€°ıÕıÿÿÿÿ8Ñ˜Äş–.
+j	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’Î8Ñ˜Äş–.
+E
+java:S1172v"(Remove this unused method parameter "v".(¡é††8Ñ˜Äş–.
+F
+java:S1172€"(Remove this unused method parameter "v".(¡é††8Ñ˜Äş–.
+Y
+java:S2696†"6Make the enclosing method "static" or remove this set.(÷ åêøÿÿÿÿ8Ñ˜Äş–.
+K	java:S108¬")Either remove or fill this block of code.(¯È¸üÿÿÿÿ8Ñ˜Äş–.
+F
+java:S1172·"(Remove this unused method parameter "v".(¡é††8Ñ˜Äş–.
+d
+java:S1126Ü"AReplace this if-then-else statement by a single return statement.(àÆòˆúÿÿÿÿ8Ñ˜Äş–.
+Y
+java:S2696ş"6Make the enclosing method "static" or remove this set.(úºãËıÿÿÿÿ8Ñ˜Äş–.
+k	java:S100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á‹æ8Ñ˜Äş–.
+p	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÊ…şùÿÿÿÿ8Ñ˜Äş–.
+p	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‡Öíıÿÿÿÿ8Ñ˜Äş–.
+X	java:S125w"<This block of commented-out lines of code should be removed.(”Ñçî8Ñ˜Äş–.
+^	java:S125š"<This block of commented-out lines of code should be removed.(’ºäüÿÿÿÿ8Ñ˜Äş–.
+^	java:S125§"<This block of commented-out lines of code should be removed.(Ê”çßøÿÿÿÿ8Ñ˜Äş–.
+^	java:S125—"<This block of commented-out lines of code should be removed.(õ×¾Íøÿÿÿÿ8Ñ˜Äş–.
+Y	java:S125"<This block of commented-out lines of code should be removed.(¹ïò8Ñ˜Äş–.
+X	java:S125§"<This block of commented-out lines of code should be removed.(„œôW8Ñ˜Äş–.
+P
+java:S1144Í"2Remove this unused private "imageToString" method.(×Šßì8Ñ˜Äş–.
