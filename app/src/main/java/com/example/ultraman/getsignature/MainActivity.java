@@ -269,8 +269,9 @@ public class MainActivity extends AppCompatActivity {
             if (bitmap == null) {
                 bitmap = Bitmap.createBitmap(mContent.getWidth(), mContent.getHeight(), Bitmap.Config.RGB_565);
             }
-            canvas = new Canvas(bitmap);
+
             try {
+                canvas = new Canvas(bitmap);
                 // Output the file
                 FileOutputStream mFileOutStream = new FileOutputStream(StoredPath);
                 v.draw(canvas);
